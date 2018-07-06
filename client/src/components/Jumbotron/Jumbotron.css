@@ -1,0 +1,7 @@
+.jumbotron {
+    position: relative;
+    background: rgb(255, 255, 255);
+    /* padding-left: 150px;  */
+    height: 100%;
+    width: 100%;
+}
